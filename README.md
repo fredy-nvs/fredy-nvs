@@ -1,16 +1,19 @@
-### Hi there 👋
+## **Hi there** <img src="" alt="greeting" width="40"/>
+<div align="center">
+    Here is the dynamic content
+</div>
 
-<!--
-**fredy-nvs/fredy-nvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>
+I'm a 
+</samp>
 
-Here are some ideas to get you started:
+### <img src="" alt="skills" width="40"/> **Skills**
+<p align="center">
+    <img src="" alt="" width="40" height="40">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="" alt="greeting" width="40"/> **Let's connect**
+- Linkedin : [Linkedin]()
+- Email : [fredynivoson@gmail.com]()
+- Skype : []
+
