@@ -27,7 +27,6 @@ I'm a
 </p>
 
 ### <img src="assets/handwave.gif" alt="greeting" width="20"/> **Let's connect**
-- Linkedin : [Linkedin]()
-- Email : [fredynivoson@gmail.com]()
-- Skype : []
+- Linkedin : [Frédéric-nivoson](https://www.linkedin.com/in/frédéric-nivoson-b60479219)
+- Email : [fredynivoson@gmail.com](fredynivoson@gmail.com)
 
