@@ -1,10 +1,12 @@
-## **Hi there** <img src="assets/hacker.gif" alt="greeting" width="30"/>
 <div align="center">
-    Here is the dynamic content
+<img 
+    src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+profile&font=Fira%20Code&center=true&width=380&height=50&duration=4000"/>
 </div>
 
 <samp>
-I'm a 
+    <img src="assets/hacker.gif" alt="greeting" width="30"/>
+I'm a software developer who love building web applications and learning technologies related to it. 
+I'm a big fan of Java and its ecosystem, but I can use other technologies like JavaScript, PHP. Away from programming, I enjoy reading books and watching football matches.
 </samp>
 
 ### <img src="assets/code-element.gif" alt="skills" width="20"/> **Skills**
